@@ -52,4 +52,4 @@ This repository contains a comprehensive analysis of the electric vehicle (EV) m
 
 ## 📊 Dashboard
 
-![Electric Vehicle Dashboard](./ElectricVehicleDashboard.PNG)
+![Electric Vehicle Dashboard](https://github.com/muskaanagg20/Electric-Vehicle-Analysis-Tableau/blob/main/ElectricVehicleDashboard.PNG)
