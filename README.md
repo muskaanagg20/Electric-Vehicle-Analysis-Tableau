@@ -1,6 +1,6 @@
 # Electric Vehicle Market Analysis Dashboard
 
-![EV Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Electric_car_logo.svg/1024px-Electric_car_logo.svg.png)
+![EV Logo]([https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Electric_car_logo.svg/1024px-Electric_car_logo.svg.png](https://www.google.com/imgres?q=electric%20vehicle%20png%20image&imgurl=https%3A%2F%2Fpngimg.com%2Fd%2Felectric_car_PNG9.png&imgrefurl=https%3A%2F%2Fpngimg.com%2Fimage%2F72410&docid=gK9sxTYRpQd-fM&tbnid=BUcv1GxC3l-ZjM&vet=12ahUKEwibqMacrriHAxVO1zQHHYVTAR8QM3oECBcQAA..i&w=718&h=629&hcb=2&ved=2ahUKEwibqMacrriHAxVO1zQHHYVTAR8QM3oECBcQAA))
 
 ## Overview
 
