@@ -1,12 +1,10 @@
 # Electric Vehicle Market Analysis Dashboard
 
-![Total Vehicles Icon](https://img.icons8.com/color/48/000000/car.png)
-![Electric Range Icon](https://img.icons8.com/fluency/48/000000/electric-car.png)
 ![Line Chart Icon](https://img.icons8.com/fluency/48/000000/line-chart.png)
 ![Map Chart Icon](https://img.icons8.com/color/48/000000/map.png)
+![Total Vehicles Icon](https://img.icons8.com/color/48/000000/car.png)
 ![Bar Chart Icon](https://img.icons8.com/fluency/48/000000/bar-chart.png)
 ![Pie Chart Icon](https://img.icons8.com/fluency/48/000000/pie-chart.png)
-![Tree Map Icon](https://img.icons8.com/fluency/48/000000/tree-map.png)
 
 ## 🌐 Overview
 
