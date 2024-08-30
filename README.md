@@ -1,10 +1,8 @@
 # Electric Vehicle Market Analysis Dashboard
 
-![Line Chart Icon](https://img.icons8.com/fluency/48/000000/line-chart.png)
-![Map Chart Icon](https://img.icons8.com/color/48/000000/map.png)
-![Total Vehicles Icon](https://img.icons8.com/color/48/000000/car.png)
-![Bar Chart Icon](https://img.icons8.com/fluency/48/000000/bar-chart.png)
-![Pie Chart Icon](https://img.icons8.com/fluency/48/000000/pie-chart.png)
+## 📊 Dashboard
+
+![Electric Vehicle Dashboard](https://github.com/muskaanagg20/Electric-Vehicle-Analysis-Tableau/blob/main/ElectricVehicleDashboard.PNG)
 
 ## 🌐 Overview
 
@@ -50,6 +48,4 @@ This repository contains a comprehensive analysis of the electric vehicle (EV) m
 - **Description:** Highlight the top 10 electric vehicle models based on the total number of vehicles, offering insights into consumer preferences and popular models in the market.
 
 
-## 📊 Dashboard
 
-![Electric Vehicle Dashboard](https://github.com/muskaanagg20/Electric-Vehicle-Analysis-Tableau/blob/main/ElectricVehicleDashboard.PNG)
